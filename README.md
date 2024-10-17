@@ -1,6 +1,6 @@
 </head>
 <body>
-    <h1>Hello there✨ I'm eibiMantu, you can call me eibi</h1>
+    <h1>Hello there✨ I'm eibiMantu, you can call me Eibi</h1>
 </body>
 <h2>Welcome to my page!  </h2>
 <b>
