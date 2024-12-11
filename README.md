@@ -8,6 +8,19 @@
 
 <hr style="border: 2px solid blue;">
 <h2><b>🎖 &nbsp;&nbsp;Badges & Certificates &nbsp;📜</b></h2>
+
+<p>
+  <b>★ &nbsp;SQL and Relational Databases</b><br>
+  <em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Cognitive Class</b></em><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://courses.cognitiveclass.ai/certificates/bba996c167ad4c9492430073bf05c8be">Cert Link</a>
+
+
+  
+
+</p>
 <p>
   <b>★ &nbsp;Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</b><br>
   <em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Oracle</b></em><br>
