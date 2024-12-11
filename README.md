@@ -14,7 +14,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=44E80FD4AF5B02ACAAE8F50A617FE5BA759C16AA502668E34658ACC9BF9599DE&fbclid=IwY2xjawHGkclleHRuA2FlbQIxMQABHduktuPPvO8UoivwWHOXjYYkFew_xK-pPRwaNfGBs7Zve_mgnIuKHkzJ3g_aem_GGNEE5zIX01U7z-Jyb6ZDQ">Badge Link</a>
   <br>
- <em> &nbsp;&nbsp;&nbsp;&nbsp; Validated foundational knowledge of Oracle Cloud Infrastructure's data management services, including database solutions, autonomous &nbsp;&nbsp;&nbsp;&nbsp; database, lifecycle management, multi-cloud strategies, and governance. 
+ <em> &nbsp;&nbsp;&nbsp;&nbsp; Validated foundational knowledge of Oracle Cloud Infrastructure's data management services, including database solutions, autonomous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; database, lifecycle management, multi-cloud strategies, and governance. 
 </p>
 <p>
   <b>★ &nbsp;Oracle Cloud Infrastructure 2024 Certified Foundations Associate</b><br>
