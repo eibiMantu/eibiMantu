@@ -1,4 +1,4 @@
-<h1> Alyssa Bernadette M. Tuliao &nbsp;&nbsp;  🪄✨ </h1
+&nbsp;<h1> Alyssa Bernadette M. Tuliao &nbsp;&nbsp;  🪄✨ </h1
 <p><strong>Bachelor of Science in Computer Science</strong><br>
 <em>New Era University</em></p>
 <hr style="border: 2px solid blue;">
@@ -8,4 +8,4 @@
 
 <hr style="border: 2px solid blue;">
 <h2><b>🎖 &nbsp;&nbsp;Badges</b></h2>
-<p><b>★ &nbsp;Oracle Cloud Infrastructure 2024 Certified Foundations Associate</b><br><em><b> &nbsp;&nbsp;&nbsp;Issued by Oracle</b></em></p>
+<p><b>★ &nbsp;Oracle Cloud Infrastructure 2024 Certified Foundations Associate</b><br><em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Oracle</b></em></p>
