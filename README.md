@@ -9,10 +9,15 @@
 <hr style="border: 2px solid blue;">
 <h2><b>🎖 &nbsp;&nbsp;Badges</b></h2>
 <p>
+  <b>★ &nbsp;Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</b><br>
+  <em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Oracle</b></em><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=44E80FD4AF5B02ACAAE8F50A617FE5BA759C16AA502668E34658ACC9BF9599DE&fbclid=IwY2xjawHGkclleHRuA2FlbQIxMQABHduktuPPvO8UoivwWHOXjYYkFew_xK-pPRwaNfGBs7Zve_mgnIuKHkzJ3g_aem_GGNEE5zIX01U7z-Jyb6ZDQ">Badge Link</a>
+</p>
+<p>
   <b>★ &nbsp;Oracle Cloud Infrastructure 2024 Certified Foundations Associate</b><br>
   <em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Oracle</b></em><br>
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=44E80FD4AF5B02ACAAE8F50A617FE5BA741C2770037238DB0F3FBA3148E23EC3&fbclid=IwY2xjawHGdkVleHRuA2FlbQIxMQABHauNw3z59nDWwTeEIdQDgX1ipNqURzutmimkglPC6HK_F7ds9PKm0_yobw_aem_vn92gwM1hHIBReMHpRfQZg">Badge Link</a>
 </p>
 
-<p><b>★ &nbsp;Oracle Cloud Infrastructure 2024 Certified Foundations Associate</b><br><em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Oracle</b></em><br>&nbsp;&nbsp;&nbsp;&nbsp; Badge Link</p>
