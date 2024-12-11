@@ -8,4 +8,4 @@
 
 <hr style="border: 2px solid blue;">
 <h2><b>🎖 &nbsp;&nbsp;Badges</b></h2>
-<p><b>★ Oracle Cloud Infrastructure 2024 Certified Foundations Associate</b><br><em><b>Issued by Oracle</b></em></p>
+<p><b>★ &nbsp;Oracle Cloud Infrastructure 2024 Certified Foundations Associate</b><br><em><b> &nbspIssued by Oracle</b></em></p>
