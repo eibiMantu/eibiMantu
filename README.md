@@ -11,9 +11,8 @@
 
 <p>
   <b>★ &nbsp;SQL and Relational Databases</b><br>
-  <em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Cognitive Class</b></em><br>
+  <em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Cognitive Class</b></em>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://courses.cognitiveclass.ai/certificates/bba996c167ad4c9492430073bf05c8be">Cert Link</a>
 
