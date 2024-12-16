@@ -43,6 +43,18 @@
  <br>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/user-attachments/files/18098755/eCertificate_.pdf" target="_blank">Cert Link</a>
+</p> 
+<p>
+  <b>★ &nbsp;Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</b><br>
+  <em><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issued by Oracle</b></em><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9BDE92F278136B3BF19B1F4083C77D75869A47F082B3E41C17431A5A53330C93&fbclid=IwY2xjawHM76JleHRuA2FlbQIxMQABHRzHSsxCEEmtAX-FQFrGP-u8gToSbgWQVjUc1H0JQqfVAgRKK7GrKxQBOg_aem_faf_gml8Zcv6qrZaopFupw">Badge Link</a>
+
+ <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/user-attachments/files/18149426/eCertificate.3.pdf">Cert Link</a>
 </p>
+
 <hr style="border: 2px solid blue;">
+
 
