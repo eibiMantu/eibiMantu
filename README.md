@@ -57,5 +57,6 @@
 
 <hr style="border: 2px solid blue;">
 <h2> 🚀 Collaborate with me? 💫 </h2>
-<p><b>Gmail:</b><em> tuliaoalyssab@gmail.com<em/> <p/>
-<p><b>Telegram:</b><em> +63 912 133 XXXX <em/> <p/>
+<p><b>Gmail:</b> tuliaoalyssab@gmail.com <p/>
+<p><b>Telegram:</b> +63 912 133 XXXX  <p/>
+<hr style="border: 2px solid blue;">
