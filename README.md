@@ -1,4 +1,4 @@
-<h1> Alyssa Bernadette M. Tuliao &nbsp;&nbsp;  🪄✨ </h1
+<h1> Alyssa Bernadette M. Tuliao &nbsp;&nbsp;  🪄✨ </h1>
 <p><strong>Bachelor of Science in Computer Science</strong><br>
 <em>New Era University</em></p>
 <hr style="border: 2px solid blue;">
@@ -56,5 +56,5 @@
 </p>
 
 <hr style="border: 2px solid blue;">
-
-
+<h1> Collaborate with me? 💫 </h1
+<p>Gmail:</p><em>tuliaoalyssab@gmail.com<em/>
